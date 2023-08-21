@@ -1,0 +1,12 @@
+1. Syntex
+    num.toString(base) --> return a string of a number according to given base system 
+
+2.Syntex
+    parseInt(string/number )
+    parseInt(string/number , radix ) --> Radix specifies the corresponding number system
+    parseFloat(string/number)
+
+    They “read” a number from a string until they can’t. In case of an error, the gathered number is returned.
+    The function parseInt returns an integer, 
+    whilst parseFloat will return a floating-point number:
+
